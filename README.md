@@ -8,6 +8,7 @@ The tasks completed:
 - implementation of all tags in GTM
 - development of questions regarding status quo of Unisoxx, followed by analyzation using Google Biq Query
 - visualization of data with Google Looker Studio
+- recommendations on how to act on and track future data 
 - presentation of data
 
 
