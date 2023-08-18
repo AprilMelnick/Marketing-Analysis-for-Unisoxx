@@ -1,4 +1,4 @@
- # Marketing Analysis for Unisoxx
+s # Marketing Analysis for Unisoxx
 
 Unisoxx was started on a simple concept: selling high quality socks that aren't gendered. 
 The business went online with the first sales in 2021. The company is doing well, but there is one person on the marketing team who handles all marketing needs.
@@ -18,7 +18,7 @@ The tasks completed:
 - created a tool provider decision matrix to update the MarTech stack for Unisoxx
 - implementation of all tags in GTM
 - development of questions regarding status quo of Unisoxx, followed by analyzation using Google Biq Query
-- visualization of data with Google Looker Studio
+- two dashboards and visualization of data analysis with Google Looker Studio
 - recommendations on how to act on and track future data 
 - presentation of data
 
