@@ -1,4 +1,4 @@
-# Marketing Analysis for Unisoxx
+ # Marketing Analysis for Unisoxx
 
 Unisoxx was started on a simple concept: selling high quality socks that aren't gendered. 
 The business went online with the first sales in 2021. The company is doing well, but there is one person on the marketing team who handles all marketing needs.
@@ -26,5 +26,7 @@ The tasks completed:
 Happily, my project was chosen for Demo Day where I presented along with all the other graduating classes.
 
 Link to Unisoxx ecommerce website: https://unisoxx.netlify.app/index.html
+
+Link to Looker Studio Analysis: https://lookerstudio.google.com/reporting/e67b5ca3-164a-4a3b-9906-3a564d2d528c
 
 
