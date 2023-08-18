@@ -25,6 +25,8 @@ The tasks completed:
 
 Happily, my project was chosen for Demo Day where I presented along with all the other graduating classes.
 
+*****
+
 Link to Unisoxx ecommerce website: https://unisoxx.netlify.app/index.html
 
 Link to Looker Studio Analysis: https://t.ly/VqYic
