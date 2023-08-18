@@ -27,6 +27,6 @@ Happily, my project was chosen for Demo Day where I presented along with all the
 
 Link to Unisoxx ecommerce website: https://unisoxx.netlify.app/index.html
 
-Link to Looker Studio Analysis: https://lookerstudio.google.com/reporting/e67b5ca3-164a-4a3b-9906-3a564d2d528c
+Link to Looker Studio Analysis: [https://lookerstudio.google.com/reporting/e67b5ca3-164a-4a3b-9906-3a564d2d528c](https://t.ly/VqYic)https://t.ly/VqYic
 
 
