@@ -1,8 +1,9 @@
 # Marketing Analysis for Unisoxx
 
-
 ## Overview
 Created as my final project for the WBS Marketing Analytics Course, this was an intense three week project where I completed an assessment of Q1 and Q2 2021 for an ecommerce sock shop called Unisoxx. During this process, I proved to myself that I have the ability understand the ecommerce ecosystem as a full stack marketer and deliver actionable results.
+
+$~~~~~~~~~~$
 
 ## Concept
 
@@ -14,6 +15,8 @@ I was hired as a Marketing Analyst to:
 - analyze marketing data 
 - assist in assessing the state of the business in preparation for future funding
 
+$~~~~~~~~~~$
+
 ## Tasks completed
 - built and designed the website using HTML and CSS
 - created a tracking measurement plan for implementation in Google Tag Manager
@@ -24,10 +27,15 @@ I was hired as a Marketing Analyst to:
 - recommendations on how to act on and track future data 
 - presentation of data
 
+$~~~~~~~~~~$
+
 ## Key Learnings
 
 - I have the ability and knowledge to work as a full stack Marketing Analyst.
+- My bookkeeping skills acquired from decades of balancing registers, makes joining tables in SQL easy!
 - If a weird technical glitch happens during a presentation 😬, I now know that it's an opportunity to show off my calm & cool debugging skills!
+
+$~~~~~~~~~~$
 
 Happily, my project was chosen for Demo Day where I presented along with all the other graduating classes.
 
