@@ -24,6 +24,10 @@ I was hired as a Marketing Analyst to:
 - recommendations on how to act on and track future data 
 - presentation of data
 
+## Key Learnings
+
+- I have the ability and knowledge to work as a full stack Marketing Analyst.
+- If a weird technical glitch happens during a presentation 😬, I now know that it's an opportunity to show off my calm & cool debugging skills!
 
 Happily, my project was chosen for Demo Day where I presented along with all the other graduating classes.
 
