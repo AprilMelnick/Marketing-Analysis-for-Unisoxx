@@ -1,3 +1,8 @@
+/* Unisoxx Data Exploration
+
+Skills used: Joins, Aggregate Operators
+/*
+
 --- Master Table:
 
 SELECT *
