@@ -35,7 +35,7 @@ $~~~~~~~~~~$
   
 - My bookkeeping skills acquired from decades of balancing registers makes joining tables in SQL easy.
 
-- Although my sales experience is in brick and mortar stores, my instincts serve me well in ecommerce. One of my first queries to see the number of return customers impressed my instructor. He had never mentioned to look for that as a sign of success.
+- Although my sales experience is in brick and mortar stores, my instincts serve me well in ecommerce. One of my earliest queries was to see the number of return customers. Every retail business wants to see people come back regardless of it being online or offline.
 - If a weird technical glitch happens during a presentation 😬, I now know that it's an opportunity to show off my calm & cool debugging skills!
 
 $~~~~~~~~~~$
