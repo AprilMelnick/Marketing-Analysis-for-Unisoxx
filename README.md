@@ -39,7 +39,7 @@ To structure my approach to this project, I proposed the following questions:
 - How are the luxury products performing?
 - How is the website performing?
 
-I then used these questions as the basis of my presentation.
+I then used the answers to these questions as the basis of my presentation.
 
 $~~~~~~~~~$
 
