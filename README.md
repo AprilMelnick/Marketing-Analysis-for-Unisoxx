@@ -7,6 +7,7 @@ $~~~~~~~~~~$
 
 ## Skills Used
 - Intermediate SQL: Joins, Aggregate Functions, Case Statements and Alias Operators
+- BigQuery
 - Google Tag Manager
 - Looker Studio
 - Google Sheets
