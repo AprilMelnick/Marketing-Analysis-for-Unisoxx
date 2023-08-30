@@ -1,7 +1,7 @@
 # Marketing Analysis for Unisoxx
 
 ## Overview
-Created as my final project for the WBS Marketing Analytics Course, this was an intense three week project where I completed an assessment of Q1 and Q2 2021 for an ecommerce sock shop called Unisoxx. During this process, I proved to myself that I have the ability understand the ecommerce ecosystem as a full stack marketer and deliver actionable results.
+Created as my final project for the WBS Marketing Analytics Course, this was an intense three week project where I completed an assessment of Q1 and Q2 2021 for an ecommerce sock shop called Unisoxx. During this process, I proved to myself that I have understand the ecommerce ecosystem as a full stack marketer and can deliver actionable insights.
 
 $~~~~~~~~~~$
 
