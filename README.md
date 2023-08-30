@@ -29,6 +29,20 @@ $~~~~~~~~~~$
 
 $~~~~~~~~~~$
 
+## Questions for Project Completion
+
+To structure my approach to this project, I proposed the following questions:
+- What updates are needed to the MarTech stack?
+- What tracking tags are needed?
+- Is the brand appealing to the intended market?
+- How is the company performing in sales?
+- How are the luxury products performing?
+- How is the website performing?
+
+I then used these questions as the basis of my presentation.
+
+$~~~~~~~~~$
+
 ## Key Learnings
 
 - I have the ability and knowledge to work as a full stack Marketing Analyst.
