@@ -38,9 +38,9 @@ $~~~~~~~~~~$
 
 $~~~~~~~~~~$
 
-## Questions for Project Completion
+## Proposed Questions for Project Completion
 
-To structure my approach to this project, I proposed the following questions:
+To structure my approach to this project, I asked the following questions:
 - What updates are needed to the MarTech stack?
 - What tracking tags are needed?
 - Is the brand appealing to the intended market?
