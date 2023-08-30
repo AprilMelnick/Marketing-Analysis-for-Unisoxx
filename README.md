@@ -5,6 +5,15 @@ Created as my final project for the WBS Marketing Analytics Course, this was an 
 
 $~~~~~~~~~~$
 
+## Skills Used
+- Intermediate SQL: Joins, Aggregate Functions, Case Statements and Alias Operators
+- Google Tag Manager
+- Looker Studio
+- Google Sheets
+- Figma
+
+$~~~~~~~~~~$
+
 ## Concept
 
 Unisoxx was started on a simple concept: selling high quality socks that aren't gendered. 
