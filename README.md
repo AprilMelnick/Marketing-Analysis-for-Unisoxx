@@ -11,6 +11,9 @@ $~~~~~~~~~~$
 - Looker Studio
 - Google Sheets
 - Figma
+- Analytical Thinking
+- Data Interpretation
+- Clear Communication
 
 $~~~~~~~~~~$
 
