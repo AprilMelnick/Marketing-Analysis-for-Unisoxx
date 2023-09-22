@@ -32,18 +32,6 @@ I was hired as a Marketing Analyst to:
 
 $~~~~~~~~~~$
 
-## Tasks completed
-- built and designed the website using HTML and CSS
-- created a tracking measurement plan for implementation in Google Tag Manager
-- created a tool provider decision matrix to update the MarTech stack for Unisoxx
-- implementation of all tags in GTM
-- development of questions regarding status quo of Unisoxx, followed by analyzation using Google Biq Query
-- two dashboards and visualization of data analysis with Google Looker Studio
-- recommendations on how to act on and track future data 
-- presentation of data
-
-$~~~~~~~~~~$
-
 ## Proposed Questions for Project Completion
 
 To structure my approach to this project, I asked the following questions:
@@ -57,6 +45,18 @@ To structure my approach to this project, I asked the following questions:
 I then used the answers to these questions as the basis of my presentation.
 
 $~~~~~~~~~$
+
+## Tasks completed
+- built and designed the website using HTML and CSS
+- created a tracking measurement plan for implementation in Google Tag Manager
+- created a tool provider decision matrix to update the MarTech stack for Unisoxx
+- implementation of all tags in GTM
+- development of questions regarding status quo of Unisoxx, followed by analyzation using Google Biq Query
+- two dashboards and visualization of data analysis with Google Looker Studio
+- recommendations on how to act on and track future data 
+- presentation of data
+
+$~~~~~~~~~~$
 
 ## Key Learnings
 
